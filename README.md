@@ -1,4 +1,6 @@
 # chat
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/idarim/chat.svg)](https://greenkeeper.io/)
 echo "# chat" >> README.md
 git init
 git add README.md
